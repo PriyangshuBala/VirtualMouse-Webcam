@@ -1,1 +1,1 @@
-This is a VirtualMouse which you can control using Hand Gestures using the video captured from the webcam.
+This is a <b>VirtualMouse</b> application which you can control using <b>Hand Gestures</b> using the video captured from the WebCam.
